@@ -2,7 +2,7 @@
 ```markdown
 # Full-Stack E-commerce Project
 
-A modern full-stack e-commerce web application built using **Spring Boot** for the backend and **React.js** for the frontend.
+A full-stack e-commerce web application built using **Spring Boot** for the backend and **React.js** for the frontend.
 
 ## 🚀 Technologies Used
 * **Backend:** Java, Spring Boot, Spring Data JPA
