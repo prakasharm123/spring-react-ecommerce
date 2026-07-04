@@ -1,0 +1,12 @@
+# Node
+node_modules/
+dist/
+build/
+.env
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+__MACOSX/
+.DS_Store

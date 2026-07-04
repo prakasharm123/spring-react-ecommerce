@@ -1,0 +1,20 @@
+# React / Node
+node_modules/
+dist/
+build/
+.env
+package-lock.json
+
+# Java / Maven / Spring Boot
+target/
+.mvn/
+.idea/
+.settings/
+.classpath
+.project
+*.class
+*.jar
+*.war
+*.log
+*.iml
+.DS_Store
